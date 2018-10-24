@@ -1,0 +1,8 @@
+[package]
+name = "grep-lite"
+version = "0.1.0"
+authors = ["Alejandro Socorro <alejandrosocorro@gmail.com>"]
+
+[dependencies]
+regex = "1.0.5"
+clap = "2.32.0"
